@@ -7,6 +7,8 @@ $ git clone https://github.com/zang09/AStar-ROS.git
 ### Astar demo in ROS Rviz
 
 ### How to use
+mkdir build
+cd build
 cmake  ..
 make
 
